@@ -143,3 +143,17 @@ cross-checked against filings-based news reporting instead. Findings, recorded i
   campaign-wide (Reform California + Californians for Voter ID), not one committee — see `prop-39.md`.
 - **Still needs manual Cal-Access confirmation:** the per-donor splits *inside* intermediary committees
   (especially Building a Better California), and exact current committee totals.
+
+#### Verification results by proposition
+
+| Prop | Flag | Verification outcome |
+|---|---|---|
+| **3** | FPPC top-10 (~$48M) > SOS ($44M) | CTA **$33M** confirmed (EdSource/LAist) — the big line is real ✅ |
+| **37** | FPPC (~$22.6M) > SOS ($19.6M) | Structure (real-estate + labor coalition) confirmed; exact $ still needs Cal-Access |
+| **40** | — | BBC **$88.5M** to No-on-40 confirmed (IVN/InfluenceWatch) ✅ |
+| **41** | — | BBC **$58.35M** to Yes-on-41 confirmed ✅ |
+| **42** | FPPC lists < SOS total (~$13M gap) | BBC **$97.8M** confirmed; SOS total is the *larger* side here (extra receipts exist) ✅ |
+| **43** | FPPC (~$14M) > SOS ($10M) | News "**~$14.9M**, incl. $9.85M Business Roundtable" matches FPPC; **SOS understated** |
+| **44** | FPPC ($16.9M) > SOS ($10.8M) | SEIU-UHW "**~$17M**" confirmed (CalMatters/KPBS); **SOS understated** |
+| **45** | extra FPPC committees not in SOS | "No" side "**~$22.2M**" (Patch) confirms the building-trades committee is real, not a duplicate; Clean & Healthy CA $7M itemized in SOS Quick Guide ✅ |
+| **39** | Uihlein $17M > SOS committee total ($15.79M) | Explained: $17M / "$36M" are campaign-wide (Reform California + Californians for Voter ID), not one committee (CalMatters); opposition donors reconcile ✅ |
