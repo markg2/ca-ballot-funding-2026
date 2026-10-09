@@ -29,6 +29,20 @@ across measures):
 > Prop 40; the asterisk flags that the donor is active on multiple measures, but these are not the same
 > dollars.)
 
+### Verification (cross-check, 2026-10-08; Cal-Access itself blocks automated access)
+CalMatters and KPBS (2026) report that SEIU-UHW "has raised **about $17 million** to support the
+campaign, mainly from union coffers" — **corroborating the FPPC figure ($16,929,633.88)**, not the SOS
+committee total ($10,781,565).
+
+> **Resolved direction of the discrepancy:** news (~$17M) matches the **FPPC** side; **the SOS
+> contribution-totals page appears to understate** the Prop 44 support campaign. Treat ~$17M as the
+> better estimate of SEIU-UHW's total campaign money; the $10.78M SOS figure may reflect only receipts
+> into the candidate committee of record. Confirm on Cal-Access.
+
+News also confirms the **opposition composition** — California Primary Care Association, California
+Medical Association and community clinic groups — consistent with the clinic donors below. (The
+individual clinic amounts, e.g. AltaMed $5.47M, were not separately confirmed in news.)
+
 ## Oppose
 
 ### Committee: Protect Patients – Stop the Attack on Community Health Centers (#1484266)

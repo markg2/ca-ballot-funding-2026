@@ -51,6 +51,13 @@ of the committee; the National Education Association is a distant second.
 **other measures** (see asterisk note below). Their FPPC donor traces are given in `prop-39.md`,
 `prop-40.md`, `prop-41.md`, `prop-42.md`, and `prop-43.md`; the money is the same money.
 
+### Verification (cross-check, 2026-10-08; Cal-Access itself blocks automated access)
+EdSource and LAist (2026) report the California Teachers Association "has ponied up **$33 million**"
+for the Yes on 3 campaign — **corroborating the FPPC CTA figure ($33,275,000)**. The FPPC-vs-SOS
+magnitude mismatch (FPPC top-10 lines ≈ $48.2M vs. SOS committee total $44.17M) is therefore a
+reporting-scope difference, not an error in the CTA line. Exact committee-total reconciliation still
+needs a manual Cal-Access look.
+
 ## Oppose
 One committee, below the FPPC $1M threshold:
 "No on Proposition 3, sponsored by California Taxpayers Association" — **$5,500** (SOS). No FPPC detail.

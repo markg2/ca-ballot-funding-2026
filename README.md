@@ -123,3 +123,23 @@ verification.
 
 Props 2 and 5 have no reported committees on either side; Prop 4 has only one small support committee
 below the FPPC $1M threshold.
+
+### Verification pass (2026-10-08)
+
+Cal-Access blocks automated access (confirmed — returns a bot-detection page), so figures were
+cross-checked against filings-based news reporting instead. Findings, recorded in each file's
+"Verification" section:
+
+- **The flagged FPPC-vs-SOS mismatches resolve in FPPC's favor.** On Props 43 and 44 (and the Prop 45
+  oppose side), independent reporting matches the **larger FPPC** figure, not the SOS contribution-totals
+  page — e.g. Prop 43 support "about $14.9M" incl. $9.85M from the California Business Roundtable
+  (CalMatters); Prop 44 SEIU-UHW "about $17M" (CalMatters/KPBS); Prop 45 "no" side ~$22.2M (Patch). **The
+  SOS contribution-totals page appears to understate several committees**; where they differ, treat the
+  FPPC/news figure as the better estimate and confirm on Cal-Access.
+- **Directly corroborated figures:** CTA $33M on Prop 3 (EdSource/LAist); Building a Better California
+  $88.5M (No on 40) / $58.35M (Yes on 41) / $97.8M (Yes on 42) (IVN/InfluenceWatch); Clean and Healthy
+  California $7M on Prop 45 (SOS Quick Guide); Prop 39 opposition donors (CalMatters).
+- **Prop 39's support "overage" is explained:** Uihlein's $17M and the "$36M" campaign total are
+  campaign-wide (Reform California + Californians for Voter ID), not one committee — see `prop-39.md`.
+- **Still needs manual Cal-Access confirmation:** the per-donor splits *inside* intermediary committees
+  (especially Building a Better California), and exact current committee totals.

@@ -47,6 +47,20 @@ the "California Business Roundtable"). No dollar split is published for these in
 ### Committee: Yes on Prop. 43 (Howard Jarvis Taxpayers Association) — SOS $709,867
 Below the FPPC $1M threshold; no FPPC top-10 detail.
 
+### Verification (cross-check, 2026-10-08; Cal-Access itself blocks automated access)
+CalMatters (2026) reports the Prop 43 support campaign "has reported **about $14.9 million**, including
+**$9.85 million from the California Business Roundtable**, $1.5 million from the Howard Jarvis Taxpayers
+Association's Prop. 13 committee, and $1 million each from Douglas Emmett Properties and Kilroy Realty,"
+and confirms the Business Roundtable Issues PAC "lists **Peter Thiel and Kim DeGeorge** as top donors."
+This **corroborates the FPPC figures** (Business Roundtable ≈$9.87M; Protect Prop. 13 ≈$1.04M; Douglas
+Emmett $1M; Kilroy $1M) and the Thiel/DeGeorge trace.
+
+> **Resolved direction of the discrepancy:** news (~$14.9M total) matches the **FPPC** side, not the SOS
+> support total ($10,005,010). The single Business Roundtable contribution (~$9.85M) by itself nearly
+> equals the entire SOS support figure, so **the SOS contribution-totals page appears to understate** this
+> campaign relative to both FPPC and news. Treat ~$14.9M as the better estimate of total support; confirm
+> on Cal-Access.
+
 ## Oppose
 
 | Committee | SOS total |

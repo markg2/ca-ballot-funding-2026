@@ -85,6 +85,14 @@ FPPC contributors (filed fact). Lines sum to **$10,450,000 ≈ 100.0%**.
 (General knowledge, labeled: **Chris Larsen** is a co-founder and executive chairman of Ripple;
 Ripple-connected money is therefore about $10M, or ~95%, of this committee.)
 
+### Verification (cross-check, 2026-10-08; Cal-Access itself blocks automated access)
+IVN / InfluenceWatch (2026) report that Building a Better California "has given **$88.5 million to the
+main No on 40 committee**, $58.35 million to Yes on 41 and $97.8 million to Yes on 42" — **directly
+corroborating the $88,500,000 figure** here (and the Props 41/42 figures). Reporting also confirms the
+committee was "formed by Sergey Brin … to fight Proposition 40" and that Brin is its largest donor
+(≈$102M cumulative), with Doerr ≈$20M and Khosla ≈$13M (*SF Chronicle / Yahoo, Aug–Sep 2026*). The
+per-donor split *inside* Building a Better California still needs manual Cal-Access confirmation.
+
 ### Below-threshold / small oppose committees
 "Stop the Squeeze – No on Prop 40" — $300,000 (FPPC names its donors as Daniel Tierney and Intersect
 USA). "Californians Against Tax Increases" (CA Business Roundtable) — $125,000.

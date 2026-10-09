@@ -56,6 +56,14 @@ the committee, **not** the amount earmarked to Prop 37.
 *California Forever Operations, Inc.* (general knowledge, labeled) is the company behind a proposed
 new city in Solano County.
 
+### Verification (cross-check, 2026-10-08; Cal-Access itself blocks automated access)
+CalMatters (2026) reports Prop 37 "was placed on the ballot by a coalition of **real estate interests
+and labor unions**" — corroborating the funding structure (Realtors via Homeownership for Families +
+carpenter PACs + Building a Better California). The exact per-donor dollar amounts ($14.85M via
+Homeownership for Families, $6M from Building a Better California) were **not independently confirmed
+in news** and, as flagged above, the FPPC top-10 lines exceed the SOS committee total; confirm the
+itemized receipts on Cal-Access.
+
 ## Oppose
 **No committee reported any opposition contributions** (SOS total oppose = $0; no FPPC committee).
 

@@ -148,7 +148,11 @@ Based on the FPPC top-10 lists, several organizations that lend their *names* to
 1. **Prop 39:** FPPC lists Uihlein at $17M, exceeding the SOS committee total ($15.79M); news figures
    (Gebbia $8M, Bray >$3M) do not appear in the FPPC top-10. Reconcile on Cal-Access.
 2. **FPPC-vs-SOS magnitude mismatches** on Props 3, 37, 43 and 44, where FPPC top-10 lines sum to more
-   than the committee's SOS total (cumulative vs. reported receipts). Amounts shown "as filed"; not summed.
+   than the committee's SOS total. **Verification pass (2026-10-08):** cross-checked against
+   filings-based news; the mismatches resolve in **FPPC's favor** — Prop 3 CTA $33M (EdSource/LAist),
+   Prop 43 support ~$14.9M incl. Business Roundtable $9.85M (CalMatters), Prop 44 SEIU-UHW ~$17M
+   (CalMatters/KPBS). **The SOS contribution-totals page appears to understate several committees;** use
+   the FPPC/news figure as the better estimate and confirm on Cal-Access (which blocks automated access).
 3. **Prop 45:** a support committee (BRIDGE/PG&E $2.4M) and an oppose committee ("Protect California
    Communities," #1479255) appear on FPPC but are not separate lines in the SOS totals.
 4. **Intermediary donor splits** (Building a Better California, Homeownership for Families, Reform

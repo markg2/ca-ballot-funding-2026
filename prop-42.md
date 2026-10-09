@@ -49,6 +49,13 @@ presence.
 
 ---
 
+### Verification (cross-check, 2026-10-08; Cal-Access itself blocks automated access)
+IVN / InfluenceWatch (2026) report Building a Better California "has given … **$97.8 million to Yes on
+42**" — **directly corroborating the $97,800,000 figure** here. This also explains most of the ~$13M gap
+between the FPPC-listed contributions and the SOS committee total ($110.83M): the SOS total is *larger*
+than the itemized FPPC lines on this measure, i.e. additional receipts exist beyond the two FPPC lines.
+Confirm the full receipt list and Building-a-Better-California's internal split on Cal-Access.
+
 ## Notes
 - **Asterisk / double-counting:** as with Prop 41, the SEIU-UHW "Yes on 40" committee is cross-listed on
   the oppose side but its money belongs to Prop 40; "Tax the Ultra-Rich Now" ($703,494) spans Props

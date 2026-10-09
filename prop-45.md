@@ -120,6 +120,18 @@ Federal PAC $75,000.
 
 ---
 
+### Verification (cross-check, 2026-10-08; Cal-Access itself blocks automated access)
+- **Clean and Healthy California $7M confirmed:** the SOS Quick Guide to Propositions itemizes its
+  opposition contributions as $5,000,000 (07/30/2026) + $2,000,000 (06/18/2026) = $7,000,000, matching
+  the FPPC figure ($7,078,075). Members' Voice / State Building & Construction Trades Council is likewise
+  confirmed (reported at ~$1.18M cumulative / an $850,000 itemized gift).
+- **The extra oppose committee is real, not a duplicate:** Patch (2026) reported the "no" side at about
+  **$22.2 million**, larger than the SOS two-committee oppose total ($18,905,427). The difference is
+  consistent with the building-trades committee "No on Prop 45 – Protect California Communities"
+  (#1479255) that appears on FPPC but not as a separate SOS oppose line — so the flagged committee-count
+  gap reflects **understatement by the SOS totals page**, not double counting. Other articles cite ~$35M
+  support / "more than $15M" oppose; totals vary by article date. Confirm the current figures on Cal-Access.
+
 ## Notes
 - **Support vs. oppose discrepancy with FPPC:** the FPPC lists one extra support committee (BRIDGE PAC,
   PG&E $2.4M) and one extra oppose committee ("Protect California Communities," #1479255) that are **not**
